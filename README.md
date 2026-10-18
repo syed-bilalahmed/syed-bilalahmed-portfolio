@@ -31,3 +31,9 @@ http://localhost:8000
 5. Save the configuration.
 
 Your site will be published as a static website.
+
+---
+
+*Trigger: forced Pages rebuild triggered by appending this line.*
+
+Timestamp: 2026-10-18T18:31:00Z
